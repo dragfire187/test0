@@ -27,3 +27,10 @@ ALbert Einstine
  - [x] compleated
  - [ ] incomplete
  
+~~strinkethrough~~
+
+:heutral_face:
+
+first | second
+--- | ---
+content | content 
