@@ -16,3 +16,11 @@ __this is bold__
    1. list
 
 ![random pics](https://m.media-amazon.com/images/M/MV5BZGJiNmM1NDctNWUxYS00YzE4LWJjNTgtYTJhYzE0NjFmMTMwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg)
+
+https://www.youtube.com/watch?v=oHg5SJYRHA0
+
+ALbert Einstine 
+ > everybody is a genious but if your judge a fish 
+ > by its ability to climb a tree it will live its life beleving its an idiot
+ 
+ 
