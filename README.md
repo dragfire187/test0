@@ -19,7 +19,7 @@ __this is bold__
 
 https://www.youtube.com/watch?v=oHg5SJYRHA0
 
-ALbert Einstine 
+Albert Einstine 
  > everybody is a genious but if your judge a fish 
  > by its ability to climb a tree it will live its life beleving its an idiot
  
@@ -29,7 +29,7 @@ ALbert Einstine
  
 ~~strinkethrough~~
 
-:heutral_face:
+:neutral_face:
 
 first | second
 --- | ---
