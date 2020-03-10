@@ -23,4 +23,7 @@ ALbert Einstine
  > everybody is a genious but if your judge a fish 
  > by its ability to climb a tree it will live its life beleving its an idiot
  
+ tasks to do
+ - [x] compleated
+ - [] incomplete
  
