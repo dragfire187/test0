@@ -25,5 +25,5 @@ ALbert Einstine
  
  tasks to do
  - [x] compleated
- - [] incomplete
+ - [ ] incomplete
  
